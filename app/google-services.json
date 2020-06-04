@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "868928449963",
+    "firebase_url": "https://note-a9877.firebaseio.com",
+    "project_id": "note-a9877",
+    "storage_bucket": "note-a9877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868928449963:android:e1f1599da1a0599cc3f6ee",
+        "android_client_info": {
+          "package_name": "com.cjent.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868928449963-6e6mmkdbf4b29d8m0s4t50nt6k0nlu7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cjent.note",
+            "certificate_hash": "3f001478ac68273c6b7ca7e3cc1e86598c8755db"
+          }
+        },
+        {
+          "client_id": "868928449963-v37uhhagmkm8a79svcqkjv4f0ijf8iul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF276T6QjtKMENpnluoZfsohOuEgzz0NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868928449963-v37uhhagmkm8a79svcqkjv4f0ijf8iul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
